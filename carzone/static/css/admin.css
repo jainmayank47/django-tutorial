@@ -1,0 +1,108 @@
+#header{
+    background-color: white !important;
+    color: black !important;
+    box-shadow: 0px 0px 3px 0px #ff0000;
+    
+}
+#header a:link, #header a:visited{
+    color: black;
+    font-size: small;
+    font-weight: bold;
+}
+
+#header a:hover{
+    color: crimson;
+    font-size: small;
+}
+
+#user-tools strong{
+    color: crimson;
+    margin-right: 40px;
+    
+}
+div.breadcrumbs{
+    background-color: black;
+    color: white;
+}
+.module caption{
+    background-color: black;
+    color: white;
+}
+a:link, a:visited{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: blue;
+    text-underline-position: above;
+}
+#content-related{
+    background-color: black;
+}
+
+#content-related .module a {
+    color: white;
+}
+
+#content-related .module h2{
+    color: white;
+}
+
+#content-related .module h3{
+    color: white;
+}
+
+div#changelist-filter,#changelist-filter h2{
+    background-color: black;
+}
+
+div#changelist-filter li.selected{
+    background-color: black;
+    border-left: 0px;
+}
+
+div#changelist-filter li.selected a{
+    color: white;
+    font-size: 14px;
+}
+
+div#changelist-filter li.selected a:hover{
+    color: greenyellow;
+}
+
+div#changelist-filter li a{
+    color: white;
+    font-size: 12px;
+}
+
+div#changelist-filter li a:hover{
+    color: greenyellow;
+}
+div#changelist-filter ul li{
+    background-color: black;
+}
+div#changelist-filter h3{
+    color: aquamarine;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button{
+    background-color: black;
+    color: white;
+}
+
+.button:active, input[type=submit]:active, input[type=button]:active, .button:focus, input[type=submit]:focus, input[type=button]:focus, .button:hover, input[type=submit]:hover, input[type=button]:hover{
+    background-color: #1f2121;
+}
+  
+.button.default, input[type=submit].default, .submit-row input.default{
+    background-color: black;
+}
+  
+.button.default:active, input[type=submit].default:active, .button.default:focus, input[type=submit].default:focus, .button.default:hover, input[type=submit].default:hover{
+    background-color: #1c1f1f;
+}
+  
+a:link, a:visited{
+   color: #1c1f1f;
+}
+  
